@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: simple-token1
+            expected-sender: ST13RNZYGR75YSMQY6E3Q004R0ZR9XJ8C194BRGD9
+            cost: 31810
+            path: "contracts\\simple-token.clar"
+            anchor-block-only: true
+            clarity-version: 2
+      epoch: "2.4"

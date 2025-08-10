@@ -1,0 +1,15 @@
+[project]
+name = "simple-token1"
+description = "A simple token contract for the BlockDev workshop"
+authors = ["asamarsal7@gmail.com"]
+telemetry = true
+cache_dir = "./.clarinet"
+
+[contracts.simple-token1]
+path = "contracts/simple-token.clar"
+clarity_version = 2
+epoch = 2.4
+
+[repl]
+costs_version = 2
+parser_version = 2
