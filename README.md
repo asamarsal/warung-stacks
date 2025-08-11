@@ -1,10 +1,15 @@
-# warung-stacks
-Warung Stacks on Clarity
+# Warung Stacks on Clarity
 
-### Smart Contract : ST13RNZYGR75YSMQY6E3Q004R0ZR9XJ8C194BRGD9.simple-token1
-### Link : https://explorer.hiro.so/txid/0xdc0342de0bd8b2f89452e4e3d33a777a1acc20cf663b02cf10c87174eec9781b?chain=testnet
+###Blockdev.id x Rise in web3
 
-### Project: Warung Agen Rokok
+### Smart Contract : 
+ST13RNZYGR75YSMQY6E3Q004R0ZR9XJ8C194BRGD9.simple-token1
+### Link : 
+https://explorer.hiro.so/txid/0xdc0342de0bd8b2f89452e4e3d33a777a1acc20cf663b02cf10c87174eec9781b?chain=testnet
+### Wallet Address : 
+SP13RNZYGR75YSMQY6E3Q004R0ZR9XJ8C195R810P
+
+### Project: Warung Cigarrette Seller
 
 ### 🎯 Problem Statement
 Problem in Indonesia:
