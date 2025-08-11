@@ -1,6 +1,6 @@
 # Warung Stacks on Clarity
 
-###Blockdev.id x Rise in web3
+### Blockdev.id x Rise in web3
 
 ### Smart Contract : 
 ST13RNZYGR75YSMQY6E3Q004R0ZR9XJ8C194BRGD9.simple-token1
